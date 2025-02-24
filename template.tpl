@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "nowyszab – kopia",
+  "categories": ["AFFILIATE_MARKETING", "ADVERTISING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
